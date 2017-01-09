@@ -9,7 +9,6 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends Activity
 {
-
     @BindView(R.id.fresco_imgeview)
     SimpleDraweeView mFrescoImgeview;
 
